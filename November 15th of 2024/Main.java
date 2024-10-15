@@ -44,5 +44,10 @@ public class Main{
       // c = b;
     // }
     // System.out.println(c);
+    /// N6
+    float a = 1.32F;
+    float b = 9.84F;
+    float k = 1.0F;
+    System.out.println(a * b / k + " - ab ფართობის მქონე მართკუთხედს გაავსებს ამდენი k^2 ფართობის მქონე კვადრატი.");
   }
 }
