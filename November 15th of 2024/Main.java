@@ -50,6 +50,20 @@ public class Main{
     // float k = 1.0F;
     // System.out.println(a * b / k + " - ab ფართობის მქონე მართკუთხედს გაავსებს ამდენი k^2 ფართობის მქონე კვადრატი.");
     /// N7
+    // int totalSeconds = 8908;
+    // int hours = 0;
+    // int minutes = 0;
+    // int remainingSeconds = totalSeconds;
+   //  if (remainingSeconds >= 3600) {
+       //  hours = remainingSeconds / 3600;
+       //  remainingSeconds -= hours * 3600;
+    // }
+    // if (remainingSeconds >= 60) {
+       //  minutes = remainingSeconds / 60;
+       //  remainingSeconds -= minutes * 60;
+    // }
+    // System.out.println(hours + " hours " + minutes + " minutes " + remainingSeconds + " seconds.");
+    /// N8
     // int hours;
     // int minutes;
     // int seconds = 8908;
