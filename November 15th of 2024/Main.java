@@ -45,9 +45,17 @@ public class Main{
     // }
     // System.out.println(c);
     /// N6
-    float a = 1.32F;
-    float b = 9.84F;
-    float k = 1.0F;
-    System.out.println(a * b / k + " - ab ფართობის მქონე მართკუთხედს გაავსებს ამდენი k^2 ფართობის მქონე კვადრატი.");
+    // float a = 1.32F;
+    // float b = 9.84F;
+    // float k = 1.0F;
+    // System.out.println(a * b / k + " - ab ფართობის მქონე მართკუთხედს გაავსებს ამდენი k^2 ფართობის მქონე კვადრატი.");
+    /// N7
+    // int hours;
+    // int minutes;
+    // int seconds = 8908;
+    // hours = seconds / 3600;
+    // minutes = (seconds % 3600 - hours) / 60;
+    // int remainingSeconds = seconds % 60; ;
+    // System.out.println(hours + " hours " + minutes + " minutes " + remainingSeconds + " seconds.");
   }
 }
